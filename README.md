@@ -1,5 +1,6 @@
 # 1ModChallenge
 Module 1 Challenge
+Deployed: https://dannysanchez03.github.io/1ModChallenge/#search-engine-optimization
 
 ## Description
 
@@ -7,7 +8,7 @@ In this Module 1 Challenge we were givin a complete website but we had to add so
 
 ## Installation
 
-N/A
+![my screenshot](Ss.png)
 
 ## Usage
 
