@@ -8,7 +8,7 @@ In this Module 1 Challenge we were givin a complete website but we had to add so
 
 ## Installation
 
-![my screenshot](Ss.png)
+![my screenshot](assets/images/Ss.png)
 
 ## Usage
 
