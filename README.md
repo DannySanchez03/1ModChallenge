@@ -1,6 +1,7 @@
 # Horiseon
 1st Challenge
-Deployed: https://dannysanchez03.github.io/1ModChallenge/#search-engine-optimization
+
+Deployed: [Here](https://dannysanchez03.github.io/SEO/#)
 
 ## Description
 
