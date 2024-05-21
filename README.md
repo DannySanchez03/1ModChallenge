@@ -1,10 +1,10 @@
-# 1ModChallenge
-Module 1 Challenge
+# Horiseon
+1st Challenge
 Deployed: https://dannysanchez03.github.io/1ModChallenge/#search-engine-optimization
 
 ## Description
 
-In this Module 1 Challenge we were givin a complete website but we had to add some and change some html semantics and attributes
+In this 1st Challenge I was givin a website with html and css, but I was told to add the functionality for the link anchor tags so that the nav bar links would go to that section on the page when clicked, had to also add some classes to the html elements and change some html semantics.
 
 ## Installation
 
